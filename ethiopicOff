@@ -1,0 +1,9 @@
+
+# Hopefully it can find your default font.  If not reboot, live with Ethiopic
+# or try setfont /usr/lib/kbd/consolefonts/default8x16 or other...
+setfont
+
+# echo
+echo -n -e '\033%@'
+
+echo "Your Normal Font Should Now be Restored\n"

@@ -1,0 +1,14 @@
+GPL and all that...
+
+Contact Daniel Yacob <dmulholl@cs.indiana.edu> if need be.
+
+ethiopicOn:
+  Will load an Ethiopic font in a Linux console and cat a UTF8
+  syllabary file.
+
+ethiopicOff:
+  Returns your system to normal console font settings (we hope!)
+
+TestEthiopic.pl:
+  Test Ethiopic character classes after installing:
+  ftp://ftp.cs.indiana.edu/pub/fidel/perl-unicode/perl-unicode.tar.gz

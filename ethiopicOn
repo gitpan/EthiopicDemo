@@ -1,0 +1,13 @@
+
+# Use local setfont because old ones are fixed for 256 chars and we have 512
+./setfont Agafari-16.psf
+
+# everyone should have space but it isn't critical...
+./setfont -m space
+
+# Terminals need this to work right.  Exiting X-Windows will hoses terminals
+# Re-echo when you leave X.
+echo -n -e '\033%G'
+
+# otherwise view Fidel.utf safely with less -r Fidel.utf
+cat Fidel.utf
