@@ -5,7 +5,12 @@
 #
 #  Use to test Ethiopic character classes after installing
 #  the package:
-#      ftp://ftp.cs.indiana.edu/pub/fidel/perl-unicode/perl-unicode.tar.gz
+#      ftp://ftp.cs.indiana.edu/pub/fidel/perl-unicode/EthiopicUnicode.tar.gz
+#
+#  See also:
+#      ftp://ftp.cs.indiana.edu/pub/fidel/perl-unicode/EthiopicDemo.tar.gz
+#
+#  which contains an Ethiopic font for Linux systems.
 #
 #  ...fix the !oks and win a free dinner anywhere in Addis :-)
 
